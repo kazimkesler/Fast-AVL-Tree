@@ -1,5 +1,5 @@
 # Fast-AVL-Tree
-Non-Recursive implementation of AVL Tree
+Non-Recursive Implementation of AVL Tree
 
 In C language, insertion operation for AVL Tree with enhanced perfomance as non-recursive
 
